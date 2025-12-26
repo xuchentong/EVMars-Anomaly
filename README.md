@@ -36,11 +36,13 @@ timestamp (ms), TSP (µg/m³), PM2.5 (µg/m³), PM10 (µg/m³)
 To demonstrate the realism of our simulated Martian dust storms in EVMars-Anomaly, we compare a real dust storm captured by NASA's Curiosity rover with a sequence from our dataset. Both exhibit similar characteristics: rapid particle motion, severe occlusion, and near-zero visibility, validating the fidelity of our simulation for anomaly detection tasks.
 
 **Real Martian Dust Storm (NASA's Curiosity Rover):**
+
 <img src="https://github.com/xuchentong/EVADR/blob/main/pictures/YouTubeezgif.gif" alt="Real Martian Dust Storm" width="692" />
 
 This GIF captures an actual dust devil on Mars, showing the chaotic, high-density particle dynamics that challenge conventional perception systems. (Credit: NASA/JPL-Caltech)
 
 **Simulated Dust Storm from EVMars-Anomaly:**
+
 <img src="https://github.com/xuchentong/EVADR/blob/main/pictures/dv-ezgif.gif" alt="Real Martian Dust Storm" width="692" />
 
 Our simulation replicates the same extreme conditions using regolith-like sand and calibrated airflow, enabling realistic testing of event-based anomaly detection without highlighting the event camera specifics.

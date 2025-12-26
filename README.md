@@ -50,7 +50,7 @@ Our simulation replicates the same extreme conditions using regolith-like sand a
 <img width="406" height="" alt="1760584719584360" src="https://github.com/xuchentong/EVADR/blob/main/pictures/rgb1.png" /><img width="406" height="" alt="1760584719396416" src="https://github.com/xuchentong/EVADR/blob/main/pictures/event1.png" />
 
 
-<img width="406" height="" alt="image" src="https://github.com/xuchentong/EVADR/blob/main/pictures/rgb2.png" /><img width="406" height="" alt="image" src="https://github.com/xuchentong/EVADR/blob/main/pictures/rgb2.png" />
+<img width="406" height="" alt="image" src="https://github.com/xuchentong/EVADR/blob/main/pictures/rgb2.png" /><img width="406" height="" alt="image" src="https://github.com/xuchentong/EVADR/blob/main/pictures/event2.png" />
 
 ## Download
 The EVMars-Anomaly dataset is hosted on the Hugging Face Hub for easy access.

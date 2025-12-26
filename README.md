@@ -42,7 +42,7 @@ To demonstrate the realism of our simulated Martian dust storms in EVMars-Anomal
 This GIF captures an actual dust devil on Mars, showing the chaotic, high-density particle dynamics that challenge conventional perception systems. (Credit: NASA/JPL-Caltech)
 
 ### Simulated Dust Storm from EVMars-Anomaly
-![Simulated Dust Storm](https://github.com/xuchentong/EVMars-Anomaly/blob/main/pictures/dv-ezgif.gif)  
+![Simulated Dust Storm](https://github.com/xuchentong/EVADR/blob/main/pictures/dv-ezgif.gif)  
 Our simulation replicates the same extreme conditions using regolith-like sand and calibrated airflow, enabling realistic testing of event-based anomaly detection without highlighting the event camera specifics.
 
 **Data Visualization:**

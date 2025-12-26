@@ -35,23 +35,25 @@ timestamp (ms), TSP (µg/m³), PM2.5 (µg/m³), PM10 (µg/m³)
 ## Visual Comparison
 To demonstrate the realism of our simulated Martian dust storms in EVMars-Anomaly, we compare a real dust storm captured by NASA's Curiosity rover with a sequence from our dataset. Both exhibit similar characteristics: rapid particle motion, severe occlusion, and near-zero visibility, validating the fidelity of our simulation for anomaly detection tasks.
 
-**Real Martian Dust Storm (NASA's Curiosity Rover)**
+**Real Martian Dust Storm (NASA's Curiosity Rover):**
 <img src="https://github.com/xuchentong/EVADR/blob/main/pictures/YouTubeezgif.gif" alt="Real Martian Dust Storm" width="692" />
 
 This GIF captures an actual dust devil on Mars, showing the chaotic, high-density particle dynamics that challenge conventional perception systems. (Credit: NASA/JPL-Caltech)
 
-**Simulated Dust Storm from EVMars-Anomaly**
+**Simulated Dust Storm from EVMars-Anomaly:**
 <img src="https://github.com/xuchentong/EVADR/blob/main/pictures/dv-ezgif.gif" alt="Real Martian Dust Storm" width="692" />
 
 Our simulation replicates the same extreme conditions using regolith-like sand and calibrated airflow, enabling realistic testing of event-based anomaly detection without highlighting the event camera specifics.
 
 
-## Data Visualization:
+## Data Visualization
 
 <img width="406" height="" alt="1760584719584360" src="https://github.com/xuchentong/EVADR/blob/main/pictures/rgb1.png" /><img width="406" height="" alt="1760584719396416" src="https://github.com/xuchentong/EVADR/blob/main/pictures/event1.png" />
 
 
 <img width="406" height="" alt="image" src="https://github.com/xuchentong/EVADR/blob/main/pictures/rgb2.png" /><img width="406" height="" alt="image" src="https://github.com/xuchentong/EVADR/blob/main/pictures/event2.png" />
+
+
 
 
 ## Download

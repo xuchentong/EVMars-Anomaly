@@ -45,6 +45,7 @@ This GIF captures an actual dust devil on Mars, showing the chaotic, high-densit
 <img src="https://github.com/xuchentong/EVADR/blob/main/pictures/dv-ezgif.gif" alt="Real Martian Dust Storm" width="692" />
 Our simulation replicates the same extreme conditions using regolith-like sand and calibrated airflow, enabling realistic testing of event-based anomaly detection without highlighting the event camera specifics.
 
+
 **Data Visualization:**
 
 <img width="406" height="" alt="1760584719584360" src="https://github.com/xuchentong/EVADR/blob/main/pictures/rgb1.png" /><img width="406" height="" alt="1760584719396416" src="https://github.com/xuchentong/EVADR/blob/main/pictures/event1.png" />

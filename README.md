@@ -8,7 +8,7 @@ The dataset consists of 68 sequences captured with a DAVIS346 color event camera
 
 - **Local Dust Storm**: Mild particle suspension
 - **Regional Dust Storm**: Moderate occlusion
-- **Global Dust Storm**: Extreme low-visibility , TSP concentrations exceeding 800 µg/m³
+- **Global Dust Storm**: Extreme low-visibility
 
 The data format is as follows:
 
@@ -52,16 +52,12 @@ Our simulation replicates the similar extreme conditions using calibrated airflo
 
 <img width="406" height="" alt="1760584719584360" src="https://github.com/xuchentong/EVADR/blob/main/pictures/rgb1.png" /><img width="406" height="" alt="1760584719396416" src="https://github.com/xuchentong/EVADR/blob/main/pictures/event1.png" />
 
-
 <img width="406" height="" alt="image" src="https://github.com/xuchentong/EVADR/blob/main/pictures/rgb2.png" /><img width="406" height="" alt="image" src="https://github.com/xuchentong/EVADR/blob/main/pictures/event2.png" />
-
-
-
 
 ## Download
 The EVMars-Anomaly dataset is hosted on the Hugging Face Hub for easy access.
 
-[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Miniecho/EVMars-Anomaly)
+[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Miniecho/EVMars-Anomaly-v2)
 
 
 ## License

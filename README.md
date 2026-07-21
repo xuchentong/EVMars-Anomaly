@@ -33,7 +33,7 @@ timestamp (ms), TSP (µg/m³), PM2.5 (µg/m³), PM10 (µg/m³)
 
 
 ## Visual Comparison
-To demonstrate the realism of our simulated Martian dust storms in EVMars-Anomaly, we compare a real dust storm captured by NASA's Curiosity rover with a sequence from our dataset. Both exhibit similar characteristics: rapid particle motion, severe occlusion, and near-zero visibility, validating the fidelity of our simulation for anomaly detection tasks.
+To demonstrate the realism of our simulated Martian dust storms in EVMars-Anomaly, we compare a representative example captured by NASA's Curiosity rover with a representative example from our dataset. Both exhibit similar characteristics: rapid particle motion, severe occlusion, and near-zero visibility, validating the fidelity of our simulation for anomaly detection tasks.
 
 **Real Martian Dust Storm (NASA's Curiosity Rover):**
 

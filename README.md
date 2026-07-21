@@ -4,7 +4,7 @@
 
 ## Overview
 
-The dataset consists of 68 sequences captured with a DAVIS346 color event camera(346×260 resolution, 1 µs temporal precision) in a outdoor data collection test field. High-power industrial fans simulate three canonical dust storm intensities:
+The dataset consists of 68 sequences captured using a DAVIS346 color event camera (346 × 260 resolution with 1 μs temporal precision) in an outdoor experimental test field. These sequences are further segmented into approximately 2.1 million non-overlapping event clips for training and evaluation. High-power industrial fans simulate three canonical dust storm intensities:
 
 - **Local Dust Storm**: Mild particle suspension
 - **Regional Dust Storm**: Moderate occlusion

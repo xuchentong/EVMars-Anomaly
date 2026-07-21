@@ -4,7 +4,7 @@
 
 ## Overview
 
-The dataset consists of 68 sequences captured using a DAVIS346 color event camera (346 × 260 resolution with 1 μs temporal precision) in an outdoor experimental test field. These sequences are further segmented into approximately 2.1 million non-overlapping event clips for training and evaluation. High-power industrial fans simulate three canonical dust storm intensities:
+The dataset consists of 68 continuous event sequences captured using a DAVIS346 color event camera (346 × 260 resolution with 1 μs temporal precision) in an outdoor experimental test field. Each sequence lasts approximately 50 seconds, resulting in about one hour of continuous recording. In total, the dataset contains approximately 680 million asynchronous color events, which are segmented into approximately 2.1 million non-overlapping event clips for training and evaluation, making EVMars-Anomaly one of the largest publicly available event-camera datasets for Martian dust storm perception. High-power industrial fans simulate three canonical dust storm intensities:
 
 - **Local Dust Storm**: Mild particle suspension
 - **Regional Dust Storm**: Moderate occlusion

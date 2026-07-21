@@ -19,11 +19,11 @@ Each file corresponds to one continuous sequence.
 Ground Truth: Provided in a separate synchronized CSV per sequence:
 timestamp (ms), TSP (µg/m³), PM2.5 (µg/m³), PM10 (µg/m³)
 
-**Mars-analog Simulation Site:**
+**Chongli Martian Test Field:**
 
 <img width="" height="258" alt="748e0292257e36f9c46c93c3bf09d0c1" src="https://github.com/xuchentong/EVADR/blob/main/pictures/Mars-analog Simulation Site1.png" /> <img width="" height="258" alt="fa209237331f9cd2b3322f369397f648" src="https://github.com/xuchentong/EVADR/blob/main/pictures/Mars-analog Simulation Site2.png" />
 
-**Outdoor Data Collection Test Field:**
+**Chongli Martian Simulation Site:**
 
 <img width="827" height="" alt="02709ef9c5776e8a4024f828cf83985f" src="https://github.com/xuchentong/EVADR/blob/main/pictures/Outdoor Data Collection Test Field.png" />
 

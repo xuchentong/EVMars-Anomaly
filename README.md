@@ -56,7 +56,9 @@ Our simulation replicates the similar extreme conditions using calibrated airflo
 
 ## Download
   ### EVMars-Anomaly-v2 dataset(for Event-Driven Spiking Signal Distillation for  Martian Dust Storm Anomaly Detection)
+  
   The EVMars-Anomaly-v2 dataset is hosted on the Hugging Face Hub for easy access.
+  
   [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Miniecho/EVMars-Anomaly-v2)
   
   #### Key Updates in v2 (Released January 2026)
@@ -68,6 +70,7 @@ Our simulation replicates the similar extreme conditions using calibrated airflo
 
   ### EVMars-Anomaly-v1 dataset
   The EVMars-Anomaly-v1 dataset can be found here:  [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Miniecho/EVMars-Anomaly)
+  
   For technical details of the dataset construction and the proposed framework, please refer to **[Dust Storm Anomaly Detection on Mars With Event Camera](https://ieeexplore.ieee.org/abstract/document/11461618/)**.
 
 ## License

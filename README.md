@@ -19,11 +19,11 @@ Each file corresponds to one continuous sequence.
 Ground Truth: Provided in a separate synchronized CSV per sequence:
 timestamp (ms), TSP (µg/m³), PM2.5 (µg/m³), PM10 (µg/m³)
 
-**Chongli Martian Test Field:**
+**Chongli Martian Simulation Site:**
 
 <img width="" height="258" alt="748e0292257e36f9c46c93c3bf09d0c1" src="https://github.com/xuchentong/EVADR/blob/main/pictures/Mars-analog Simulation Site1.png" /> <img width="" height="258" alt="fa209237331f9cd2b3322f369397f648" src="https://github.com/xuchentong/EVADR/blob/main/pictures/Mars-analog Simulation Site2.png" />
 
-**Chongli Martian Simulation Site:**
+**Chongli Martian Test Field:**
 
 <img width="827" height="" alt="02709ef9c5776e8a4024f828cf83985f" src="https://github.com/xuchentong/EVADR/blob/main/pictures/Outdoor Data Collection Test Field.png" />
 
@@ -59,10 +59,7 @@ The EVMars-Anomaly dataset is hosted on the Hugging Face Hub for easy access.
 
 [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Miniecho/EVMars-Anomaly-v2)
 
-### Dataset
-
-- **EVMars-Anomaly-v1**  
-  [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Miniecho/EVMars-Anomaly)
+The EVMars-Anomaly-v1 dataset can be found here:  [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Miniecho/EVMars-Anomaly)
 
 ### Related Paper
 

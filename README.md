@@ -59,6 +59,17 @@ The EVMars-Anomaly dataset is hosted on the Hugging Face Hub for easy access.
 
 [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Miniecho/EVMars-Anomaly-v2)
 
+### Dataset
+
+- **EVMars-Anomaly-v1**  
+  [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Miniecho/EVMars-Anomaly)
+
+### Related Paper
+
+For technical details of the dataset construction and the proposed method, please refer to:
+
+**Dust Storm Anomaly Detection on Mars With Event Camera**  
+https://ieeexplore.ieee.org/abstract/document/11461618/
 
 ## License
 This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).

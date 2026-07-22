@@ -55,7 +55,7 @@ Our simulation replicates the similar extreme conditions using calibrated airflo
 <img width="406" height="" alt="image" src="https://github.com/xuchentong/EVADR/blob/main/pictures/rgb2.png" /><img width="406" height="" alt="image" src="https://github.com/xuchentong/EVADR/blob/main/pictures/event2.png" />
 
 ## Download
-  ### EVMars-Anomaly-v2 dataset(for Event-Driven Spiking Signal Distillation for  Martian Dust Storm Anomaly Detection)
+  ### EVMars-Anomaly-v2 Dataset(for Event-Driven Spiking Signal Distillation for  Martian Dust Storm Anomaly Detection)
   
   The EVMars-Anomaly-v2 dataset is hosted on the Hugging Face Hub for easy access.
   
@@ -68,8 +68,9 @@ Our simulation replicates the similar extreme conditions using calibrated airflo
   - Introduced standardized dataset splits divided into three dust storm intensity intervals: **global** (planet-encircling storms with highest dust loading), **regional** (large-scale but localized storms), and **local** (smaller,   confined dust events). This partitioning facilitates consistent benchmarking and analysis across varying severity levels.
 
 
-  ### EVMars-Anomaly-v1 dataset
-  The EVMars-Anomaly-v1 dataset can be found here:  [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Miniecho/EVMars-Anomaly)
+  ### EVMars-Anomaly-v1 Dataset
+  The EVMars-Anomaly-v1 dataset can be found here: 
+  [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Miniecho/EVMars-Anomaly)
   
   For technical details of the dataset construction and the proposed framework, please refer to **[Dust Storm Anomaly Detection on Mars With Event Camera](https://ieeexplore.ieee.org/abstract/document/11461618/)**.
 
